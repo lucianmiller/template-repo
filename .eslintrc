@@ -15,5 +15,8 @@
       "indent": ["warn", 2],
       "no-debugger": "warn",
       "no-unused-vars": "warn"
+  },
+  "globals": {
+    "process": true
   }
 }
